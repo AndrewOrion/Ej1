@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Principal 
+public class Ej1_pinogallardo_andres 
 {
 
 	public static void main(String[] args) 
